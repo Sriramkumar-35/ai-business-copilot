@@ -1,0 +1,41 @@
+date,product,category,region,quantity,unit_price,revenue
+2025-01-05,Wireless Mouse,Electronics,North,50,19.99,999.50
+2025-01-06,Office Chair,Furniture,South,10,129.99,1299.90
+2025-01-07,USB-C Cable,Electronics,East,120,9.99,1198.80
+2025-01-08,Standing Desk,Furniture,West,8,299.99,2399.92
+2025-01-10,Laptop Stand,Electronics,North,35,24.99,874.65
+2025-01-12,Bluetooth Speaker,Electronics,South,25,49.99,1249.75
+2025-01-15,Desk Lamp,Furniture,East,40,15.99,639.60
+2025-01-18,Mechanical Keyboard,Electronics,West,22,79.99,1759.78
+2025-01-20,Monitor 24in,Electronics,North,18,159.99,2879.82
+2025-01-22,Bookshelf,Furniture,South,12,89.99,1079.88
+2025-02-02,Wireless Mouse,Electronics,East,60,19.99,1199.40
+2025-02-05,Office Chair,Furniture,West,15,129.99,1949.85
+2025-02-08,USB-C Cable,Electronics,North,150,9.99,1498.50
+2025-02-10,Standing Desk,Furniture,South,6,299.99,1799.94
+2025-02-14,Laptop Stand,Electronics,East,40,24.99,999.60
+2025-02-18,Bluetooth Speaker,Electronics,West,30,49.99,1499.70
+2025-02-20,Desk Lamp,Furniture,North,45,15.99,719.55
+2025-02-22,Mechanical Keyboard,Electronics,South,28,79.99,2239.72
+2025-02-25,Monitor 24in,Electronics,East,20,159.99,3199.80
+2025-02-28,Bookshelf,Furniture,West,10,89.99,899.90
+2025-03-03,Wireless Mouse,Electronics,North,70,19.99,1399.30
+2025-03-06,Office Chair,Furniture,East,18,129.99,2339.82
+2025-03-09,USB-C Cable,Electronics,South,140,9.99,1398.60
+2025-03-12,Standing Desk,Furniture,North,9,299.99,2699.91
+2025-03-15,Laptop Stand,Electronics,West,38,24.99,949.62
+2025-03-18,Bluetooth Speaker,Electronics,North,33,49.99,1649.67
+2025-03-21,Desk Lamp,Furniture,South,50,15.99,799.50
+2025-03-24,Mechanical Keyboard,Electronics,East,25,79.99,1999.75
+2025-03-27,Monitor 24in,Electronics,West,22,159.99,3519.78
+2025-03-30,Bookshelf,Furniture,North,14,89.99,1259.86
+2025-04-02,Wireless Mouse,Electronics,South,65,19.99,1299.35
+2025-04-05,Office Chair,Furniture,West,20,129.99,2599.80
+2025-04-08,USB-C Cable,Electronics,North,160,9.99,1598.40
+2025-04-11,Standing Desk,Furniture,East,11,299.99,3299.89
+2025-04-14,Laptop Stand,Electronics,South,42,24.99,1049.58
+2025-04-17,Bluetooth Speaker,Electronics,East,28,49.99,1399.72
+2025-04-20,Desk Lamp,Furniture,West,48,15.99,767.52
+2025-04-23,Mechanical Keyboard,Electronics,North,30,79.99,2399.70
+2025-04-26,Monitor 24in,Electronics,South,25,159.99,3999.75
+2025-04-29,Bookshelf,Furniture,East,16,89.99,1439.84
